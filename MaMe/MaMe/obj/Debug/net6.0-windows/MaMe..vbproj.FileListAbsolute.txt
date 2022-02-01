@@ -1,0 +1,17 @@
+C:\Users\Guillermo\OneDrive\Documentos\ITSO 5to\Nueva carpeta\MaMe\MaMe\bin\Debug\net6.0-windows\MaMe..exe
+C:\Users\Guillermo\OneDrive\Documentos\ITSO 5to\Nueva carpeta\MaMe\MaMe\bin\Debug\net6.0-windows\MaMe..deps.json
+C:\Users\Guillermo\OneDrive\Documentos\ITSO 5to\Nueva carpeta\MaMe\MaMe\bin\Debug\net6.0-windows\MaMe..runtimeconfig.json
+C:\Users\Guillermo\OneDrive\Documentos\ITSO 5to\Nueva carpeta\MaMe\MaMe\bin\Debug\net6.0-windows\MaMe..dll
+C:\Users\Guillermo\OneDrive\Documentos\ITSO 5to\Nueva carpeta\MaMe\MaMe\bin\Debug\net6.0-windows\ref\MaMe..dll
+C:\Users\Guillermo\OneDrive\Documentos\ITSO 5to\Nueva carpeta\MaMe\MaMe\bin\Debug\net6.0-windows\MaMe..pdb
+C:\Users\Guillermo\OneDrive\Documentos\ITSO 5to\Nueva carpeta\MaMe\MaMe\obj\Debug\net6.0-windows\MaMe..vbproj.AssemblyReference.cache
+C:\Users\Guillermo\OneDrive\Documentos\ITSO 5to\Nueva carpeta\MaMe\MaMe\obj\Debug\net6.0-windows\MaMe_.Form1.resources
+C:\Users\Guillermo\OneDrive\Documentos\ITSO 5to\Nueva carpeta\MaMe\MaMe\obj\Debug\net6.0-windows\MaMe..vbproj.GenerateResource.cache
+C:\Users\Guillermo\OneDrive\Documentos\ITSO 5to\Nueva carpeta\MaMe\MaMe\obj\Debug\net6.0-windows\MaMe..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guillermo\OneDrive\Documentos\ITSO 5to\Nueva carpeta\MaMe\MaMe\obj\Debug\net6.0-windows\MaMe..AssemblyInfoInputs.cache
+C:\Users\Guillermo\OneDrive\Documentos\ITSO 5to\Nueva carpeta\MaMe\MaMe\obj\Debug\net6.0-windows\MaMe..AssemblyInfo.vb
+C:\Users\Guillermo\OneDrive\Documentos\ITSO 5to\Nueva carpeta\MaMe\MaMe\obj\Debug\net6.0-windows\MaMe..vbproj.CoreCompileInputs.cache
+C:\Users\Guillermo\OneDrive\Documentos\ITSO 5to\Nueva carpeta\MaMe\MaMe\obj\Debug\net6.0-windows\MaMe..dll
+C:\Users\Guillermo\OneDrive\Documentos\ITSO 5to\Nueva carpeta\MaMe\MaMe\obj\Debug\net6.0-windows\ref\MaMe..dll
+C:\Users\Guillermo\OneDrive\Documentos\ITSO 5to\Nueva carpeta\MaMe\MaMe\obj\Debug\net6.0-windows\MaMe..pdb
+C:\Users\Guillermo\OneDrive\Documentos\ITSO 5to\Nueva carpeta\MaMe\MaMe\obj\Debug\net6.0-windows\MaMe..genruntimeconfig.cache
